@@ -18,15 +18,15 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* yokohama cofog */
-  '1': { icon: 'icons/family2.svg', color: '#C75746', bcolor: '#935B3B' },
-  '2': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#0AB971' },
-  '3': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '4': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#D33673' },
-  '5': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#2A3A03' },
-  '6': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#EC2406' },
-  '7': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#938626' },
-  '8': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#C75746' },
-  '9': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#D33673' },
-  '10': { icon: 'icons/government-uk.svg', color: '#C75746', bcolor: '#790586' },
-  '11': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' },
+  '1':  { icon: 'icons/family2.svg',                    color : '#C75746', b color : '#935B3B' },
+  '2':  { icon: 'icons/manufactoring-construction.svg', color : '#C75746', b color : '#0AB971' },
+  '3':  { icon: 'icons/publicaffairs.svg',              color : '#C75746', b color : '#4E6D00' },
+  '4':  { icon: 'icons/helping-others.svg',             color : '#C75746', b color : '#D33673' },
+  '5':  { icon: 'icons/education.svg',                  color : '#C75746', b color : '#2A3A03' },
+  '6':  { icon: 'icons/farms.svg',                      color : '#C75746', b color : '#EC2406' },
+  '7':  { icon: 'icons/money.svg',                      color : '#C75746', b color : '#938626' },
+  '8':  { icon: 'icons/fire-brigade.svg',               color : '#C75746', b color : '#C75746' },
+  '9':  { icon: 'icons/economic-aid.svg',               color : '#C75746', b color : '#D33673' },
+  '10': { icon: 'icons/government-uk.svg',              color : '#C75746', b color : '#790586' },
+  '11': { icon: 'icons/admin.svg',                      color : '#C75746', b color : '#790586' }
 };
